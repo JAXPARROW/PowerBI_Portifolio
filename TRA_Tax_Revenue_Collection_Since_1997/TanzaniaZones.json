@@ -1,0 +1,122 @@
+[
+ {
+  "Region": "Ilala",
+  "Zone": "Coastal Zone"
+ },
+ {
+  "Region": "Dar es Salaam",
+  "Zone": "Coastal Zone"
+ },
+ {
+  "Region": "Temeke",
+  "Zone": "Coastal Zone"
+ },
+ {
+  "Region": "Arusha",
+  "Zone": "Coastal Zone"
+ },
+ {
+  "Region": "Coast",
+  "Zone": "Coastal Zone"
+ },
+ {
+  "Region": "Dodoma",
+  "Zone": "Central Zone"
+ },
+ {
+  "Region": "Iringa",
+  "Zone": "Southern Highlands Zone"
+ },
+ {
+  "Region": "Kagera",
+  "Zone": "Lake Zone"
+ },
+ {
+  "Region": "Kigoma",
+  "Zone": "Western Zone"
+ },
+ {
+  "Region": "Kilimanjaro",
+  "Zone": "Northern Zone"
+ },
+ {
+  "Region": "Lindi",
+  "Zone": "Coastal Zone"
+ },
+ {
+  "Region": "Mara",
+  "Zone": "Lake Zone"
+ },
+ {
+  "Region": "Mbeya",
+  "Zone": "Southern Highlands Zone"
+ },
+ {
+  "Region": "Morogoro",
+  "Zone": "Coastal Zone"
+ },
+ {
+  "Region": "Mtwara",
+  "Zone": "Coastal Zone"
+ },
+ {
+  "Region": "Mwanza",
+  "Zone": "Lake Zone"
+ },
+ {
+  "Region": "Ruvuma",
+  "Zone": "Southern Highlands Zone"
+ },
+ {
+  "Region": "Shinyanga",
+  "Zone": "Lake Zone"
+ },
+ {
+  "Region": "Singida",
+  "Zone": "Central Zone"
+ },
+ {
+  "Region": "Tabora",
+  "Zone": "Central Zone"
+ },
+ {
+  "Region": "Tanga",
+  "Zone": "Northern Zone"
+ },
+ {
+  "Region": "Rukwa",
+  "Zone": "Southern Highlands Zone"
+ },
+ {
+  "Region": "Manyara",
+  "Zone": "Northern Zone"
+ },
+ {
+  "Region": "Kariakoo",
+  "Zone": "Coastal Zone"
+ },
+ {
+  "Region": "Geita",
+  "Zone": "Lake Zone"
+ },
+ {
+  "Region": "Kahama",
+  "Zone": "Lake Zone"
+ },
+ {
+  "Region": "Katavi",
+  "Zone": "Western Zone"
+ },
+ {
+  "Region": "Njombe",
+  "Zone": "Southern Highlands Zone"
+ },
+ {
+  "Region": "Simiyu",
+  "Zone": "Lake Zone"
+ },
+ {
+  "Region": "Songwe",
+  "Zone": "Southern Highlands Zone"
+ }
+]
